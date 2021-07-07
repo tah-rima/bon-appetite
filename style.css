@@ -1,0 +1,69 @@
+body{
+    font-family: 'Poppins' , sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+.midnightblue-color{ color: midnightblue; 
+    
+}
+.flexible-container{
+    display: flex; 
+    margin-bottom: 100px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 8%;
+} 
+.half-width img{
+    width: 60%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(24, 24, 117), midnightblue);
+    padding: 10px 40px;
+    color: mintcream;
+    font-weight: 700;
+    border-radius: 22px;
+}
+.grey{
+    color: grey;
+}
+.about-us{
+    background-image: url(Frame\ 56.jpg);
+    background-repeat: none;
+}
+.character{
+    background-image: none;
+}
+.recipe-item{ 
+    height: 33%;
+    width: 33%;
+    margin-top: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px grey;border-left: 7px solid;
+    border-radius: 30px;
+    padding-left: 10px; padding-top: 5px;
+}
+
+
+
+footer { 
+    text-align: center;
+    background-color: black;
+}
+.fix{
+    height: 200px;
+    width: 300px;
+    border-radius: 30px; 
+}
+.snow{
+    color: blanchedalmond;
+}
+.our-recipe{ text-align: center;}
